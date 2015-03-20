@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Blog]]></title>
+  <link href="http://455287693.github.io/atom.xml" rel="self"/>
+  <link href="http://455287693.github.io/"/>
+  <updated>2015-03-20T14:35:18+08:00</updated>
+  <id>http://455287693.github.io/</id>
+  <author>
+    <name><![CDATA[WangChao]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
